@@ -7,8 +7,10 @@ Interface Design OMB 5
 <br>
 
 <h2> Aufgabe_02 </h2>
-
-
+<a href="https://lauserbub.github.io/IFD/02_Ideation-Pitch_Sammelalbum.pdf" rel="nofollow">#02 Aufgabe: Ideation-Pitch</a>
+<br>
+<a href="https://lauserbub.github.io/IFD/02_Ideation-Prozess_Sammelalbum.pdf" rel="nofollow">#02 Aufgabe: Ideation-Prozess</a>
+<br>
 
 <h2> Aufgabe_03 </h2>
 <a href="https://lauserbub.github.io/IFD/03_Low-Fid_Prototyp_Pflanzen_Sammelalbum.pdf" rel="nofollow">#03 Aufgabe: Low-Fid Prototyp</a>
