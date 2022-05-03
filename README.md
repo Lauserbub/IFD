@@ -15,7 +15,7 @@ Interface Design OMB 5
 <h2> Aufgabe_03 </h2>
 <a href="https://lauserbub.github.io/IFD/03_Low-Fid_Prototyp_Pflanzen_Sammelalbum.pdf" rel="nofollow">#03 Aufgabe: Low-Fid Prototyp</a>
 <br>
-<a href="https://lauserbub.github.io/IFD/Icons.pdf" rel="nofollow">#03 Aufgabe: Icon List</a>
+<a href="https://lauserbub.github.io/IFD/Icons" rel="nofollow">#03 Aufgabe: Icon List</a>
 <br>
 
 <h2> Aufgabe_04 </h2>
