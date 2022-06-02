@@ -38,22 +38,22 @@ Interface Design OMB 5
 <h3>Findings </h3>
 <h4>Proband1 </h4>
 <p> 
-- Bei Quest-Tab: Belohnungen hinzufügen
-- Gefällt Raster der Home Ansicht nicht
-- Möchte gerne vom eigenen Garten-Tab auf Garten von Freunden zugreifen können
-- Möglichkeit die Sammelalben mit Freunden teilen zu können -> Möglichkeit für weitere Quests
-- Daraus folgen Private/Öffentliche Alben 
+- Bei Quest-Tab: Belohnungen hinzufügen <br>
+- Gefällt Raster der Home Ansicht nicht <br>
+- Möchte gerne vom eigenen Garten-Tab auf Garten von Freunden zugreifen können <br>
+- Möglichkeit die Sammelalben mit Freunden teilen zu können -> Möglichkeit für weitere Quests <br>
+- Daraus folgen Private/Öffentliche Alben <br>
 </p>
 <h4>Proband2 </h4>
-- Bei Quest-Tab: Belohnungen hinzufügen -> Quest Fortschritt Visuell abheben 
-- Beim verschieben des Bildes soll sich die Navigationsbar unten ändern
-- Möchte gerne vom eigenen Garten-Tab auf Garten von Freunden zugreifen können
-- In der Navigationsbar: Position von Profilicon und Gartenicon vertauschen
-- Im Garten-Tab: Shop sichtbarer machen -> 2. Reiter wie beim Quest-Tab
+- Bei Quest-Tab: Belohnungen hinzufügen -> Quest Fortschritt Visuell abheben <br>
+- Beim verschieben des Bildes soll sich die Navigationsbar unten ändern <br>
+- Möchte gerne vom eigenen Garten-Tab auf Garten von Freunden zugreifen können <br>
+- In der Navigationsbar: Position von Profilicon und Gartenicon vertauschen <br>
+- Im Garten-Tab: Shop sichtbarer machen -> 2. Reiter wie beim Quest-Tab <br>
 <h4>Proband3 </h4>
-- Beim verschieben des Bildes soll sich die Navigationsbar unten ändern
-- Möchte gerne vom eigenen Garten-Tab auf Garten von Freunden zugreifen können
-- Im Garten-Tab: Shop sichtbarer machen
-- Reklamationsbutton bei fehlerhafter Bilderkennung 
+- Beim verschieben des Bildes soll sich die Navigationsbar unten ändern <br>
+- Möchte gerne vom eigenen Garten-Tab auf Garten von Freunden zugreifen können <br>
+- Im Garten-Tab: Shop sichtbarer machen <br>
+- Reklamationsbutton bei fehlerhafter Bilderkennung <br>
 
 <h2> Aufgabe_05 </h2>
