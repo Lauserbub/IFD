@@ -59,4 +59,4 @@ Interface Design OMB 5
 <h2> Aufgabe_05 </h2>
 
 <h4>Link zum Prototypen:</h4>
-<a href="https://xd.adobe.com/view/bef1d98f-e1a5-46f9-aeb7-b17ffc375686-eba2/screen/05894861-75ce-4b88-b7fd-f70de93db774?fullscreen&hints=off"> Drück mich</a>
+<a href="https://xd.adobe.com/view/bef1d98f-e1a5-46f9-aeb7-b17ffc375686-eba2/"> Drück mich</a>
